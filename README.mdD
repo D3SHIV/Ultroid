@@ -112,7 +112,7 @@ Different ways to get your `SESSION`:
 * Termux : `wget -O session.py https://git.io/JY9JI && python session.py`
 * TelegramBot : [@SessionGeneratorBot](https://t.me/SessionGeneratorBot)
 
----
+--
 
 # License
 [![License](https://www.gnu.org/graphics/agplv3-155x51.png)](LICENSE)   
